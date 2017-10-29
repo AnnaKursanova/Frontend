@@ -1,0 +1,120 @@
+.cv{
+	margin-left: 25px;
+	margin-right: 25px;
+	border-bottom: 10px solid #800080;
+	border-radius: 7px;
+}
+
+.block-title{
+	border-bottom: 2px solid #800080;
+	padding: 1px;
+}
+
+.name{
+color: #000000;
+font-size: 25px; /*размер текста*/
+margin-bottom: 2px;
+
+}
+
+.tester {
+	font-size: 20px;
+	color: #808080;
+	
+}
+
+.inf {
+	font-size: 15px;
+	color: #808080;
+}
+
+
+.foto{
+	border-radius: 3px;
+	width: 300px;
+	margin-top:20px;
+	display:line-block;
+	
+}
+
+.aboutMe{
+	border;
+	background-color: #464451;
+	margin-top: 100px;
+	margin-left: 30px;
+	margin-left: 20px;
+}
+
+
+.border{
+	border-radius: 5px;
+	border: 1px solid black;
+	width: 200px;
+	margin-bottom: 30px;
+}
+
+.bgBorderCo{
+	border:5px solid #FF7F50;
+	width: 170px;
+}
+
+
+.bgBorderCr{
+	border:5px solid #FF7F50;
+	width: 180px;
+}
+
+.bgBorderTm{
+	border:5px solid #FF7F50;
+	width: 150px;
+}
+
+.bgBorderOr{
+	border:5px solid #FF7F50;
+	width: 185px;
+}
+
+.bgBorderLe{
+	border:5px solid #FF7F50;
+	width: 165px;
+}
+
+.bgBorderTe{
+	border:5px solid #FF7F50;
+	width: 150px;
+}
+
+
+
+.bgBorderMth{
+	border:5px solid #FF7F50;
+	width: 190px;
+}
+
+.content{
+	display: inline-block;
+}
+
+.contentRight{
+	display: inline-block;
+	margin-left: 50px;
+}
+
+
+.experiens, 
+.reference,
+.languages,
+.education,
+.aboutMe,
+.interest,
+.skills{
+	border-radius: 7px;
+	border;
+	background-color: #FFDEAD;
+	display: inline-block;
+	padding: 5px 10px;
+	font-size: 20px;
+	margin-top:20px;
+	margin-bottom: 20px;
+
+}
